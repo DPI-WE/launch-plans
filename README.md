@@ -4,8 +4,6 @@ This repository contains a list of "launch plans", a curated curriculum to bridg
 
 [Video Overview](https://www.youtube.com/watch?v=m9R8p-kxYLE)
 
-![](./assets/the-blues-brothers_bridge-jump.gif)
-
 ## Employer Partners
 
 - [SAP](./partners/SAP.md)
