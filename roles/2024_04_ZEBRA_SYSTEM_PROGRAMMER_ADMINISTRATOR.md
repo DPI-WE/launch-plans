@@ -1,7 +1,5 @@
 # Zebra - System Programmer Administrator
 
-## Overview
-
 - The Repair Engineering team supports the Repair Operations production floor to the best of our ability. We introduce new Zebra products to Repair by working alongside other Design Engineers, Product Specialist Engineers, and Test Engineers. We also work very closely with our Quality and Operations organizations to investigate failing trends, customer complaints, and/or continuous improvements.
 - Repair Engineering is also responsible for efficiency, safety, and cost savings opportunities within Operations. This could entail utilizing new and exciting technology/software, modifying the layout of the production floor, or simply eliminating a step/function to save time/labor/material.
 - As a Systems Programmer/Administrator, you will work with a team to analyze, acquire, install, modify, support and design information systems and write programs specific for those systems. You will work directly with internal and external customers to learn their unique requirements and design, develop, and implement a solution to meet that requirement. As a Systems Programmer/Administrator I, you will work under the guidance of a Systems Programmer/Administrator II or a Senior Systems Programmer/Administrator. Work will be reviewed for accuracy and overall adequacy.
