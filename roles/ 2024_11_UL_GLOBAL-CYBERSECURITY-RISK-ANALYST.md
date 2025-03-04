@@ -1,14 +1,13 @@
 ## UL - Global Cybersecurity Risk Analyst
 
-## Overview
-### Core responsibilities and competencies required
+## Core responsibilities and competencies required
 The Global Cybersecurity Risk Analyst will be responsible for identifying, analyzing, reporting, and influencing the management of information risks across the organization. The candidate will also be accountable for helping ensure that his or her organization’s vendor ecosystem is properly evaluated, assessed, and managed to minimize risk exposure and risk impacts to the business.
 
 The Global Cybersecurity Risk Analyst’s responsibility is to anticipate, identify, monitor, and mitigate risks associated with operational and third-party providers. Vendor risk management will include a vendor’s information security practices, government, legal and industry compliance. In addition, the Global Cybersecurity Risk Analyst is tasked with helping to compile data and complete documentation related to operational and third-party risks, as well as helping to ensure that the issues that arise are appropriately captured, assessed, and mitigated to acceptable levels.
 
 This role will be part of Global Cybersecurity Risk Management team, reporting to the Global Cybersecurity Risk Manager.
 
-### Job Responsibilities
+## Job Responsibilities
 The Global Cybersecurity Risk Analyst candidates will be evaluated based on their ability to perform the duties listed above while demonstrating the skills and competencies necessary to be highly effective in the role. These skills and competencies include:
 - Assist with focused information risk assessments of existing or new services and technologies, along with business counterparts.
 - Communicates risk assessment findings to team owners and custodians of information risk “business partners,” or information governance teams and information security teams.
@@ -31,10 +30,10 @@ The Global Cybersecurity Risk Analyst candidates will be evaluated based on thei
 - Works with regulatory officers and auditors as necessary
 - Experience with coordinating vendor risk management frameworks, policies and processes within a broader enterprise, operational and IT risk management model
 
-### Requirements
+## Requirements
 A successful Global Cybersecurity Risk Analyst candidate will have the expertise and skills described below.
 
-### Knowledge and Skills
+## Knowledge and Skills
 - Ability to identify and assess the severity and potential impact of risks. Communicate risk assessment findings to risk owners outside the cybersecurity program in a way that consistently drives objective, fact-based decisions about risk that optimize the trade-off between risk mitigation and business performance.
 - An understanding of organizational mission, values, goals and consistent application of this knowledge.
 - An ability to work on several tasks simultaneously and pay attention to sources of information from inside and outside one’s network within an organization.
@@ -45,7 +44,7 @@ A successful Global Cybersecurity Risk Analyst candidate will have the expertise
 - Strong decision-making capabilities, with a proven ability to weigh the relative costs and benefits of potential actions and identify the most appropriate one.
 - Strong problem-solving and troubleshooting skills.
 
-### Personal Characteristics (Optional)
+## Personal Characteristics (Optional)
 - Can interface with, and gain the respect of, stakeholders at all levels and roles in the company.
 - Is a confident, energetic self-starter, with strong interpersonal skills.
 - Has good judgment and a sense of urgency, and has demonstrated commitment to high standards of ethics, regulatory compliance, customer service and business integrity.
