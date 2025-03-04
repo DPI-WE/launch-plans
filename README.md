@@ -14,3 +14,10 @@ This repository contains a list of "launch plans", a curated curriculum to bridg
 - [Underwriters Laboratories (UL)](./partners/UNDERWRITERS_LABORATORIES.md)
 - [United Airlines](./partners/UNITED_AIRLINES.md)
 - [Canadian Imperial Bank of Commerce (CIBC)](./partners/CANADIAN_IMPERIAL_BANK_OF_COMMERCE.md)
+
+## Contribution Guidelines
+
+1. Assign yourself an open issue.
+2. Create a branch for your work `<issue-number>-<your-initials>-<issue-description>` eg `1-ih-dpi-technical-associate`.
+3. For new roles, create a markdown file in `roles/` folder with `<start-date>_<company>_<job-title>` (all caps).
+4. When completed, push changes and make a pull request. At least 1 approval is required before merging.
