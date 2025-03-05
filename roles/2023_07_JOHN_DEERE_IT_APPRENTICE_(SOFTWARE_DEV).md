@@ -2,7 +2,7 @@
 
 ## Day in a Life:
 
-[A Day in the Life of the IT HelpDesk Support](https://dpi.instructure.com/courses/301/assignments/3093) 
+[A Day in the Life of the IT HelpDesk Support](https://www.youtube.com/watch?v=N2XK-XnLnWs3) 
 
 ## Core responsibilities and competencies required:
 
@@ -39,4 +39,4 @@
 
 ## Courses
 
-- [Career Academy: IT Support Specialist](https://dpi.instructure.com/courses/301/assignments/2608) 
+- Career Academy: IT Support Specialist(Coursera)
