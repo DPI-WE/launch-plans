@@ -2,7 +2,7 @@
 
 ## Day in a Life
 
-[Day in a Life of a Cloud Engineer](https://dpi.instructure.com/courses/301/assignments/3095) 
+[Day in a Life of a Cloud Engineer](https://www.youtube.com/watch?v=M49p8KAYLUU) 
 
 ## Core responsibilities and competencies required:
 
