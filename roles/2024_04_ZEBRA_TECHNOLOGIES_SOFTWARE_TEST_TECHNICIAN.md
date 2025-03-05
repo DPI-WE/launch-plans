@@ -2,7 +2,7 @@
 
 ## Day in a life
 
-[Day in the Life of a Software Engineer in Test – Remote Work](https://dpi.instructure.com/courses/301/assignments/3096) 
+[Day in the Life of a Software Engineer in Test – Remote Work](https://www.youtube.com/watch?v=QjT6dG3WSX4) 
 
 ## Core responsibilities and competencies required:
 
