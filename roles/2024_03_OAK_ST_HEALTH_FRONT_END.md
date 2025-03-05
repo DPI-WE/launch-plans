@@ -39,7 +39,7 @@
 
 ## Courses
 
-- [Josh Comeau's CSS for JavaScript Developers](https://dpi.instructure.com/courses/301/assignments/2646) 
-- [Introduction to JavaScript from Scrimba](https://dpi.instructure.com/courses/301/assignments/2596)
-- [Eloquent JavaScript](https://dpi.instructure.com/courses/301/assignments/2597)
-- [Josh Comeau's The Joy of React](https://dpi.instructure.com/courses/301/assignments/2598)
+- [Josh Comeau's CSS for JavaScript Developers](https://css-for-js.dev/) 
+- [Introduction to JavaScript from Scrimba](https://scrimba.com/learn-javascript-c0v)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Josh Comeau's The Joy of React](https://www.joyofreact.com/)
