@@ -2,7 +2,7 @@
 
 ## Day in a Life
 
-[One Day in Life of SAP Software Engineer](https://dpi.instructure.com/courses/301/assignments/3092) 
+[One Day in Life of SAP Software Engineer](https://www.youtube.com/watch?v=CxoGjX3JvHI) 
 
 ## Core responsibilities and competencies required:
 
