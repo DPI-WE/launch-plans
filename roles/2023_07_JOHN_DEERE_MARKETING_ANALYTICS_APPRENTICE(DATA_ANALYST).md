@@ -29,4 +29,4 @@
 
 ## Courses
 
-- [Prepare, Clean, Transform, and Load Data using Power BI](https://dpi.instructure.com/courses/301/assignments/2766) 
+- Prepare, Clean, Transform, and Load Data using Power BI(Coursera)
