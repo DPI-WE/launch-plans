@@ -2,7 +2,7 @@
 
 ## Day in a Life
 
-[Day in a Life of an Account Executive](https://dpi.instructure.com/courses/301/assignments/3087)  
+[Day in a Life of an Account Executive](https://www.youtube.com/watch?v=E8qfxepzSZo)  
 
 ## Core responsibilities and competencies required
 
@@ -35,5 +35,5 @@ Position SAP enterprise software effectively to meet customer needs and organiza
 
 ## Courses
 
-- [Career Academy: Digital Marketer](https://dpi.instructure.com/courses/301/assignments/2647)  
+- Career Academy: Digital Marketer (Coursera)
 
