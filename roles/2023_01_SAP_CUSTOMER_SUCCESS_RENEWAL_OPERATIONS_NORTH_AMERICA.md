@@ -5,7 +5,7 @@
 > "In my role as part of the Customer Success Renewal Operations team at SAP, I start the day by reviewing emails and catching up on any updates from customers. My mornings often involve responding to requests and preparing for meetings by pulling data on customer engagement and performance metrics. I meet with clients to discuss their product usage, offer tailored recommendations, and ensure everything is aligned for upcoming renewals. A large part of my day involves analyzing KPIs and sales performance using Power BI, which helps me identify trends and areas where we can improve our renewal strategies. Collaboration with internal teams is essential, so I stay in close communication with sales and product teams to address customer needs and solutions. By the end of the day, I focus on compiling reports for leadership, highlighting insights that drive decision-making, and plan for the following day to keep everything running smoothly."
 >
 
-[Customer Success Webinar: Renewal Ops for Dummies](https://dpi.instructure.com/courses/301/assignments/3089)  
+[Customer Success Webinar: Renewal Ops for Dummies](https://www.youtube.com/watch?v=3mWa4yBMm3I)  
 
 ## Core responsibilities and competencies required
 
@@ -39,5 +39,4 @@ Drive customer success and renewal operations by leveraging strategic thinking a
 
 ## Courses
 
-- [Career Academy: Digital Marketer](https://dpi.instructure.com/courses/301/assignments/2647)  
-
+- Career Academy: Digital Marketer(Coursera)
