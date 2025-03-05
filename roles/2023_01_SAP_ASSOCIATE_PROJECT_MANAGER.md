@@ -8,7 +8,7 @@
 
 [A Day in the Life of a Project Manager | Indeed](https://www.youtube.com/watch?v=AzQ3Xso7sLA)
 
-## Core responsibilities and competencies required
+## Core responsibilities and competencies required:
 
 Support Project Managers in various projects to ensure deliverables are met and Go-Lives are executed as planned. This includes tasks such as:
 
@@ -18,13 +18,13 @@ Support Project Managers in various projects to ensure deliverables are met and 
 - Maintaining financial trackers to monitor project expenses, approve timesheets, and manage pre-bill processes.
 - Competencies required include strong organizational skills, attention to detail, and the ability to collaborate effectively with various stakeholders.
 
-## Essential technical skills
+## Essential technical skills:
 
 - Proficiency in MS Office, particularly Excel, for financial tracking and data analysis.
 - Experience with business processes to understand project workflows and the integration of different project components.
 - Familiarity with project management tools and software to assist in tracking project progress, managing resources, and ensuring timely delivery of project milestones.
 
-## Additional key skills and competencies
+## Additional key skills and competencies:
 
 - Strong communication and collaboration skills to work effectively with Project Managers and other stakeholders.
 - Time management and the ability to work under pressure in a fast-paced environment, ensuring that project deadlines are met.
