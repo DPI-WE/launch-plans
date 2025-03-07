@@ -3,7 +3,6 @@
 ## Day in a life
 
 [A day in the life of a Java Software Engineer by Learn with Phil](https://www.youtube.com/watch?v=aCP4tDSpjGQ&ab_channel=LearnwithPhil)
-[A day in the life of a Spring Developer by ProCoder](https://www.youtube.com/watch?v=eBWm1l1AZF8&ab_channel=ProCoder)
 
 ## Core responsibilities and competencies required
 
