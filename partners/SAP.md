@@ -11,7 +11,7 @@ SAP is a leading enterprise software provider used by organizations of all sizes
 - Data Science
 - Intelligent Spend and Business Network Adoption Services Center Regulated Industries North America
 - Procurement & External Workforce Delivery Engagement Associate Consultant
-- Software Developer, Manufacturing
+- [Software Developer, Manufacturing](../roles/2023_01_SAP_SOFTWARE_DEVELOPER_MANUFACTURING.md)
 - Software Developer
 - Associate Consultant
 - BTP Analytics and Data Consultant
