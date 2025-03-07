@@ -8,7 +8,7 @@ SAP is a leading enterprise software provider used by organizations of all sizes
 - Client Account Executive
 - Customer Success Partner (e-team) 
 - Customer Success Renewal Operations North America
-- Data Science
+- [Data Science](../roles/2023_01_SAP_DATA_SCIENCE.md)
 - Intelligent Spend and Business Network Adoption Services Center Regulated Industries North America
 - Procurement & External Workforce Delivery Engagement Associate Consultant
 - Software Developer, Manufacturing
