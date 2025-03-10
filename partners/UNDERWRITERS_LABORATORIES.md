@@ -4,6 +4,7 @@ Underwriters Laboratories (UL) is a global safety science organization that deve
 
 ## Roles
 
+- [Business Data Analytics](../roles/2024_11_UL_BUSINESS_DATA_ANALYTICS.md)
 - [Associate Process Automation Analyst](../roles/2024_11_UL_ASSOCIATE_PROCESS_AUTOMATION_ANALYST.md)
 - [Associate Process Automation Developer](../roles/2024_11_UL_ASSOCIATE_PROCESS_AUTOMATION_DEVELOPER.md)
 - [UX Designer](../roles/2024_11_UL_UX_DESIGNER.md)
