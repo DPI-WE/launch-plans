@@ -3,11 +3,11 @@
 ## Job Description
 
 Entry-Level/Apprentice Java Developer
-<br>
-<br> **Position Title:** Entry-Level/Apprentice Java Developer
-<br> **Department:** Private, Personal, and Digital Banking Technology – US Region
-<br> **Location:** 70 W Madison, Chicago, IL
-<br> **Reports To:** Jeremy Diemer, Sr Director Application Development
+  
+**Position Title:** Entry-Level/Apprentice Java Developer  
+**Department:** Private, Personal, and Digital Banking Technology – US Region  
+**Location:** 70 W Madison, Chicago, IL  
+**Reports To:** Jeremy Diemer, Sr Director Application Development  
 
 ## About Us
 
