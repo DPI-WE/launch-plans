@@ -5,3 +5,5 @@ Underwriters Laboratories (UL) is a global safety science organization that deve
 ## Roles
 
 - [Web Developer](../roles/2024_11_UL_WEB_DEVELOPER.md)
+- [Project Management Analyst](../roles/2024_11_UL_PROJECT_MANAGEMENT_ANALYST.md)
+
