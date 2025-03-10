@@ -4,6 +4,7 @@ Underwriters Laboratories (UL) is a global safety science organization that deve
 
 ## Roles
 
+- [UX Designer](../roles/2024_11_UL_UX_DESIGNER.md)
 - [Global Cyber Governance Analyst](../roles/2024_11_GLOBAL_CYBER_GOVERNANCE_ANALYST.md)
 - [Associate Project Manager—Project Coordinator](../roles/2024_11_UL_ASSOCIATE_PROJECT_MANAGER_PROJECT_COORDINATOR.md)
 - [Web Developer](../roles/2024_11_UL_WEB_DEVELOPER.md)
