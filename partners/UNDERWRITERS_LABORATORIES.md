@@ -4,4 +4,4 @@ Underwriters Laboratories (UL) is a global safety science organization that deve
 
 ## Roles
 
-- [Global Cybersecurity Risk Analyst](../roles/%202024_11_UL_GLOBAL-CYBERSECURITY-RISK-ANALYST.md)
+- [Global Cybersecurity Risk Analyst](../roles/2024_11_UL_GLOBAL-CYBERSECURITY-RISK-ANALYST.md)

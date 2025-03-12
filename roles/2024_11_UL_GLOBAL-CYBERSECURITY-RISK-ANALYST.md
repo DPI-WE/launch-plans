@@ -62,14 +62,14 @@ A successful Global Cybersecurity Risk Analyst candidate will have the expertise
 [What does an information risk analyst do? | Cybersecurity Career Series](https://www.youtube.com/watch?v=zcuFMGBZOw8)
 
 ## Courses
-[Microsoft Cybersecurity Analyst Professional Certificate](https://dpi.instructure.com/courses/301/assignments/2624)
+[Microsoft Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
 
-[Career Academy: Cybersecurity Professional (Google)](https://dpi.instructure.com/courses/301/assignments/2606)
+[Career Academy: Cybersecurity Professional (Google)](https://www.coursera.org/programs/google-learning-program-82l5n/collections/57UIwY15TLG1CMGNeZyxtA~bcba1?source=share)
 
 ## Books
-["Cybersecurity and Cyberwar: What Everyone Needs to Know" by P.W. Singer and Allan Friedman](https://dpi.instructure.com/courses/301/assignments/2625)
+["Cybersecurity and Cyberwar: What Everyone Needs to Know" by P.W. Singer and Allan Friedman](https://www.amazon.com/Cybersecurity-Cyberwar-Everyone-Needs-Know%C2%AE/dp/0199918112)
 
-["The Basics of IT Audit: Purposes, Processes, and Practical Information" by Stephen D. Gantz](https://dpi.instructure.com/courses/301/assignments/2626)
+["The Basics of IT Audit: Purposes, Processes, and Practical Information" by Stephen D. Gantz](https://www.amazon.com/Basics-Audit-Processes-Practical-Information/dp/0124171591)
 
 ## Deliverables
 - Risk assessment reports
