@@ -1,4 +1,4 @@
-# SAP - Customer Success Partner (e-team)
+# SAP - Customer Success Partner (E-Team)
 
 ## Day in a Life:
 
