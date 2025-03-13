@@ -6,7 +6,7 @@ SAP is a leading enterprise software provider used by organizations of all sizes
 
 - [Associate Project Manager](../roles/2023_01_SAP_ASSOCIATE_PROJECT_MANAGER.md)
 - Client Account Executive
-- [Customer Success Partner (e-team)](../roles/2023_01_CUSTOMER_SUCCESS_PARTNER(E-TEAM).MD)
+- [Customer Success Partner (e-team)](../roles/2023_01_CUSTOMER_SUCCESS_PARTNER-E-TEAM.MD)
 - Customer Success Renewal Operations North America
 - Data Science
 - Intelligent Spend and Business Network Adoption Services Center Regulated Industries North America
