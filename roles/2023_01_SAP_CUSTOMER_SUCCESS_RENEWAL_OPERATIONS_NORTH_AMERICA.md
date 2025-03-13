@@ -39,4 +39,4 @@ Drive customer success and renewal operations by leveraging strategic thinking a
 
 ## Courses
 
-- Career Academy: Digital Marketer(Coursera)
+- [Career Academy: Digital Marketer](https://www.coursera.org/programs/google-learning-program-82l5n/collections/57UIwY15TLG1CMGNeZyxtA~701d7?source=share)
