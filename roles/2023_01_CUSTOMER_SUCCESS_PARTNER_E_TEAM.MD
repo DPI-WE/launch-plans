@@ -1,4 +1,4 @@
-# SAP - Customer Success Partner (E-Team)
+# SAP - Customer Success Partner (e-team)
 
 ## Day in a Life:
 
@@ -37,4 +37,4 @@ Account Management expertise to oversee a diverse portfolio of accounts, ensurin
 
 ## Courses
 
-- Career Academy: Digital Marketer (Coursera)
+- [Career Academy: Digital Marketer](https://www.coursera.org/programs/google-learning-program-82l5n/collections/57UIwY15TLG1CMGNeZyxtA~701d7?source=share)
