@@ -4,4 +4,4 @@ John Deere is a global leader in agricultural, construction, and forestry equipm
 
 ## Roles
 
-- [IT Apprentice (Software Dev)](../roles/2023_07_JOHN_DEERE_IT_APPRENTICE_(SOFTWARE_DEV).md)
+- [IT Apprentice (Software Dev)](../roles/2023_07_JOHN_DEERE_IT_APPRENTICE_SOFTWARE_DEV.md)
