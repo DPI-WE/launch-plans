@@ -1,4 +1,4 @@
-# EMR Software @ Oak St Health
+# Oak St Health - EMR Software 
 
 ## Core responsibilities and competencies required:
 
