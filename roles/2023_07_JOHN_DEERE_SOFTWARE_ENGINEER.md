@@ -1,6 +1,6 @@
 # John Deere - Software Engineer 
 
-## Core responsibilities and competencies required:
+## Core responsibilities and competencies required
 
 - Programming and Development: Utilize a tech stack that includes React.js, JavaScript, TypeScript, AWS, and SQL to develop and maintain applications. Implement various libraries and frameworks to support testing, error handling, and endpoint creation.
 - Microservices Architecture: Develop and manage microservices to support scalable and efficient application architecture.
@@ -10,7 +10,7 @@
 - Data Structures: Frequently use data structures such as Arrays, Maps, and Sets in daily development tasks, optimizing application performance.
 - API Development: Develop and maintain APIs, enhancing the functionality and connectivity of applications by handling HTTP requests, responses, and understanding the client-server model.
 
-## Essential technical skills:
+## Essential technical skills
 
 - Proficiency in React and JavaScript: Essential for front-end development and creating dynamic user interfaces.
 - Experience with C# and Microsoft Azure: Important for backend development and cloud-based solutions.
@@ -18,7 +18,7 @@
 - Familiarity with GitHub and Jira: Essential for version control, collaboration, and project management.
 - Strong SQL skills: Important for database management and manipulation, ensuring efficient data handling.
 
-## Additional skills and competencies:
+## Additional skills and competencies
 
 - Strong problem-solving and analytical skills: To address and resolve coding issues effectively.
 - Effective communication skills: To convey technical information to both technical and non-technical stakeholders.
