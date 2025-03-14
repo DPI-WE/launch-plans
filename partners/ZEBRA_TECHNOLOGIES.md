@@ -5,3 +5,5 @@ Zebra Technologies is a global leader in enterprise asset intelligence, providin
 ## Roles
 
 - [Software Test Technician](../roles/2024_04_ZEBRA_TECHNOLOGIES_SOFTWARE_TEST_TECHNICIAN.md)
+- [System Programmer Administrator](../roles/2024_04_ZEBRA_SYSTEM_PROGRAMMER_ADMINISTRATOR.md)
+
