@@ -28,4 +28,4 @@
 
 ## Courses
 
-- Prepare, Clean, Transform, and Load Data using Power BI (Coursera)
+- [Prepare, Clean, Transform, and Load Data using Power BI (Coursera)](https://www.coursera.org/learn/extract-transform-and-load-data-in-power-bi/)
