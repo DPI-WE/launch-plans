@@ -10,7 +10,7 @@
 
 > I also lead sprint planning sessions, focusing on prioritizing tasks that provide the most value to our data-driven decision-making processes. My day often concludes with validating new algorithms or ensuring data accuracy for real-time systems."
 
-## Core responsibilities and competencies required:
+## Core responsibilities and competencies required
 
 - Collaborate with cross-functional teams to identify and implement data-driven solutions, enhancing business processes and product development.
 - Present data insights to stakeholders, effectively communicating complex data analyses to inform strategic business decisions.
@@ -19,7 +19,7 @@
 - Develop machine learning models to predict outcomes, optimize processes, and drive innovation within the organization.
 - Automate data workflows to improve efficiency, reduce manual intervention, and streamline data processing tasks.
 
-## Essential technical skills:
+## Essential technical skills
 
 - **Python, SQL, and Statistical Analysis:** Essential for analyzing large datasets, performing data cleaning, and building statistical models to support engineering decisions.
 - **Mathematical Modeling:** Utilizing techniques like regression analysis, Monte Carlo simulations, and predictive modeling to solve complex problems related to battery performance.
@@ -27,7 +27,7 @@
 - **Data Tools (Tableau, Databricks):** Important for creating interactive dashboards and data visualization tools to track performance metrics and trends.
 - **C++/C and Embedded Systems Knowledge (CAN-BUS protocols):** Valuable for understanding how data flows between devices and ensuring seamless integration of software with hardware.
 
-## Additional skills and competencies:
+## Additional skills and competencies
 
 - **Strengthen Your Mathematics and Statistics Skills:** A deep understanding of statistical techniques and mathematical modeling is essential for data-driven roles.
 - **Build Proficiency in Data Tools and Programming Languages:** Python, SQL, and data visualization tools like Tableau will be your go-to resources for analysis and presentation.
