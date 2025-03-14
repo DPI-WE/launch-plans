@@ -4,4 +4,4 @@ John Deere is a global leader in agricultural, construction, and forestry equipm
 
 ## Roles
 
-- [John Deere - Platform Engineer Apprentice (Cloud)](../roles/2023_07_JOHN_DEERE_PLATFORM_ENGINEER_APPRENTICE.md)
+- [Platform Engineer Apprentice (Cloud)](../roles/2023_07_JOHN_DEERE_PLATFORM_ENGINEER_APPRENTICE.md)
