@@ -1,8 +1,8 @@
 # Oak St Health - Field Technician 
 
-## Core responsibilities and competencies required:
+## Core responsibilities and competencies required
 
-## Non-tech:
+## Non-tech
 
 - Communication: Effectively communicate across seven clinics, both verbally and in writing, ensuring professionalism and clarity in all interactions.
 - Time management: Manage calendars, emails, and personal tasks efficiently to stay on track and meet deadlines.
@@ -13,7 +13,7 @@
 - Patience and accountability: Maintain patience and accountability while managing oneself, balancing the freedom to work independently with the responsibility to stay on task.
 - Finding balance: Understand the importance of pacing oneself to avoid burnout while ensuring tasks are completed effectively.
 
-## Tech:
+## Tech
 
 - ServiceNow: Utilize the ticketing system for navigating and assigning tickets, adhering to basic etiquette and ensuring tasks are handled appropriately.
 - Troubleshooting: Apply problem-solving skills to diagnose and resolve technical issues, using various tools and platforms.
@@ -27,14 +27,14 @@
 - Server room management: Manage networking and server-related tasks, including working with Meraki servers.
 - Device tracking: Use Absolute for tracking all devices and managing inventory.
 
-## Essential technical skills:
+## Essential technical skills
 
 - ServiceNow and Ninja 1: For efficient ticket management and device monitoring.
 - Troubleshooting and command-line knowledge: Essential for diagnosing and resolving a wide range of technical issues.
 - Windows PowerShell and Microsoft Azure: Important for scripting, automation, and cloud-based tasks.
 - Hardware and server room management: Key for handling physical devices and networking tasks.
 
-## Additional skills and competencies:
+## Additional skills and competencies
 
 - Strong communication and problem-solving skills: To effectively address client needs and resolve issues.
 - Learning agility and self-management: To stay adaptable and independent in a dynamic work environment.
