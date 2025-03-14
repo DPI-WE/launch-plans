@@ -50,13 +50,13 @@ As an Entry-Level/Apprentice Java Developer, you will work closely with our expe
 
 ## Courses
 
-- [Hyperskill: Introduction to Java*](https://hyperskill.org/courses/8)
+- [Hyperskill: Introduction to Java](https://hyperskill.org/courses/8)
 - [Hyperskill: Java Backend Developer (Spring Boot)*](https://hyperskill.org/courses/12). I would highly recommend completing SQL course on Datacamp before beginning (or in parallel).
 - [cs124](https://www.cs124.org/) and [learncs.online](https://www.learncs.online/) is a Java (or Kotlin) based introduction to computer science course from University of Illinois. Great place to brush up on your computer science fundamentals in a new language.()
 - [Introduction to JavaScript from Scrimba](https://scrimba.com/learn-javascript-c0v). They have [a good deep dive](https://scrimba.com/javascript-deep-dive-c0a), but it requires a subscription.
 - [SQL: A Practical Introduction for Querying Databases](https://www.coursera.org/programs/dpi-workforce-career-academy-me956/learn/sql-practical-introduction-for-querying-databases)
 - [Udemy: Complete Java Development Bootcamp (AI)](https://www.udemy.com/course/the-complete-java-development-bootcamp/?couponCode=ST21MT121624)
-- AZ-900 Foundations Certification: [Datacamp: Microsoft azure fundamentals](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fskill-tracks%2Fmicrosoft-azure-fundamentals-az-900&dc_referrer=https%3A%2F%2Fgithub.com%2FDPI-WE%2Flaunch-plans%2Fissues%2F34) and [Microsoft: AZ-900T00-A: Microsoft Azure Fundamentals - Training](https://learn.microsoft.com/en-us/training/courses/az-900t00#course-syllabus)
+- AZ-900 Foundations Certification: [Datacamp: Microsoft azure fundamentals](https://www.datacamp.com/certification/azure-fundamentals) and [Microsoft: AZ-900T00-A: Microsoft Azure Fundamentals - Training](https://learn.microsoft.com/en-us/training/courses/az-900t00#course-syllabus)
 - AZ-900 Certification Exam: [Microsoft Certified: Azure Fundamentals - Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-take-the-exam)
 
 <small>*required</small>
