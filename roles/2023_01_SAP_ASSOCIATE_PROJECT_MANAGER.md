@@ -6,7 +6,7 @@
 >
 > Associate Project Manager Apprentice at SAP
 
-[A Day in the Life of a Project Manager | Indeed](https://dpi.instructure.com/courses/301/assignments/2751)
+[A Day in the Life of a Project Manager | Indeed](https://www.youtube.com/watch?v=AzQ3Xso7sLA)
 
 ## Core responsibilities and competencies required
 
@@ -48,7 +48,7 @@ Support Project Managers in various projects to ensure deliverables are met and 
 
 - "The Lean Startup" by Eric Ries
 
-## Deliverables:
+## Deliverables
 
 - Project task assignments and tracking documents
 - Stakeholder communication logs
