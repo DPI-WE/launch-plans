@@ -4,8 +4,6 @@ John Deere is a global leader in agricultural, construction, and forestry equipm
 
 ## Roles
 
-- [Manufacturing Engineer Apprentice (Smart Connected Factory Analyst)](../roles/2023_07_MANUFACTURING_ENGINEER_APPRENTICE) 
-- [Marketing Analytics Apprentice (Data Analyst)](../roles/2023_07_JOHN_DEERE_MARKETING_ANALYTICS_APPRENTICE_DATA_ANALYST.md)
 - [Platform Engineer Apprentice (Cloud)](../roles/2023_07_JOHN_DEERE_PLATFORM_ENGINEER_APPRENTICE.md)
 - [Software Engineer](../roles/2023_07_JOHN_DEERE_SOFTWARE_ENGINEER.md)
 - [IT Apprentice (Software Dev)](../roles/2023_07_JOHN_DEERE_IT_APPRENTICE_SOFTWARE_DEV.md)
